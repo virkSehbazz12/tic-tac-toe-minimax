@@ -13,9 +13,8 @@ Author: Clederson Cruz
 Year: 2017
 License: GNU GENERAL PUBLIC LICENSE (GPL)
 
-Example:
-Paul Lu
-CCID:  paullu
+Sehbazz Virk
+CCID: sehbazz
 """
 
 HUMAN = -1
